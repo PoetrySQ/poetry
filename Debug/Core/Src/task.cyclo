@@ -1,0 +1,10 @@
+../Core/Inc/DCL.h:75:20:forwardBridge	1
+../Core/Inc/DCL.h:81:20:reverseBridge	1
+../Core/Inc/DCL.h:111:20:startAllInterrupt	1
+../Core/Inc/DCL.h:116:20:stopAllInterrupt	1
+../Core/Inc/DCL.h:225:20:openRelay	1
+../Core/Src/task.c:50:6:initTask	1
+../Core/Src/task.c:55:6:checkTask	1
+../Core/Src/task.c:60:6:ledTask	1
+../Core/Src/task.c:65:6:loopTask	15
+../Core/Src/task.c:164:6:runTask	9

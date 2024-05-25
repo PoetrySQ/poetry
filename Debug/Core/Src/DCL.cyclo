@@ -1,0 +1,16 @@
+../Core/Inc/DCL.h:64:20:stopPWM	1
+../Core/Inc/DCL.h:111:20:startAllInterrupt	1
+../Core/Inc/DCL.h:116:20:stopAllInterrupt	1
+../Core/Inc/DCL.h:121:20:updatePWM	1
+../Core/Inc/DCL.h:135:21:upDownLimitFloat	3
+../Core/Inc/DCL.h:148:24:upDownLimitUint	3
+../Core/Inc/DCL.h:161:24:calcDuty	1
+../Core/Inc/DCL.h:166:20:stopTim1Interrupt	1
+../Core/Inc/DCL.h:172:20:stopTim2Interrupt	1
+../Core/Src/DCL.c:24:6:DCL_init	1
+../Core/Src/DCL.c:60:6:currentLoopCalc	1
+../Core/Src/DCL.c:109:6:voltageLoopCalc	1
+../Core/Src/DCL.c:116:6:protectCheck	5
+../Core/Src/DCL.c:189:6:calcDeadTime	1
+../Core/Src/DCL.c:203:6:runCurrentLoop	1
+../Core/Src/DCL.c:219:6:runVoltageLoop	1

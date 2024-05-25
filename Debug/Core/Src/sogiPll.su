@@ -1,0 +1,4 @@
+../Core/Src/sogiPll.c:14:6:sogiPll_init	16	static
+../Core/Src/sogiPll.c:48:6:sogiConfig	32	static
+../Core/Src/sogiPll.c:67:6:sogiPllOsgCofficientCalc	32	static
+../Core/Src/sogiPll.c:86:6:sogiPllLoop_calc	16	static

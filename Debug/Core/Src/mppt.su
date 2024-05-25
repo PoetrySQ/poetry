@@ -1,0 +1,3 @@
+../Core/Src/mppt.c:14:6:mpptInit	16	static
+../Core/Src/mppt.c:32:6:mpptPno	24	static
+../Core/Src/mppt.c:80:6:mpptInc	24	static

@@ -1,0 +1,3 @@
+../Core/Src/config.c:18:6:systemCoefficientInit	16	static
+../Core/Src/config.c:34:6:controlStateInit	16	static
+../Core/Src/config.c:52:6:faultStateInit	16	static

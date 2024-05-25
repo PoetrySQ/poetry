@@ -1,0 +1,16 @@
+../Core/Inc/DCL.h:64:20:stopPWM	8	static
+../Core/Inc/DCL.h:111:20:startAllInterrupt	4	static,ignoring_inline_asm
+../Core/Inc/DCL.h:116:20:stopAllInterrupt	4	static,ignoring_inline_asm
+../Core/Inc/DCL.h:121:20:updatePWM	4	static
+../Core/Inc/DCL.h:135:21:upDownLimitFloat	24	static
+../Core/Inc/DCL.h:148:24:upDownLimitUint	24	static
+../Core/Inc/DCL.h:161:24:calcDuty	16	static
+../Core/Inc/DCL.h:166:20:stopTim1Interrupt	8	static
+../Core/Inc/DCL.h:172:20:stopTim2Interrupt	8	static
+../Core/Src/DCL.c:24:6:DCL_init	32	static
+../Core/Src/DCL.c:60:6:currentLoopCalc	40	static
+../Core/Src/DCL.c:109:6:voltageLoopCalc	4	static
+../Core/Src/DCL.c:116:6:protectCheck	8	static
+../Core/Src/DCL.c:189:6:calcDeadTime	32	static
+../Core/Src/DCL.c:203:6:runCurrentLoop	8	static
+../Core/Src/DCL.c:219:6:runVoltageLoop	8	static
